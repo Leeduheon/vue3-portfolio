@@ -15,7 +15,7 @@
 </template>
   
 <script setup>
-  const title = "Hello,<br> I'm Michael Kwon"; 
+  const title = "Hello,<br> I'm Duheon Lee"; 
 
 </script>
   
